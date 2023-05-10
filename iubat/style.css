@@ -1,0 +1,92 @@
+.bgimg{
+  background-image: url('iubat.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 720px;
+}
+.logo{
+  height: 45px;
+  width: 45px;
+
+}
+
+/*....... navbar..... */
+.navbar-brand{
+  font-weight: bold;
+  font-size: 40px!important;
+  padding-left: 10px;
+padding-top:8px!important;
+}
+#nav-part{
+font-family: 'Vollkorn', serif;
+
+}
+.nav-link{
+  font-size:21px;
+}
+/* -------------------------img middle----------------------- */
+.display-1{
+  font-weight: bold;
+
+}
+.middle{
+
+  padding-top: 10%;
+  color: white;
+
+}
+.write{
+  font-size: 33px;
+  text-align: center;
+}
+/* -----------------news-------------------- */
+.display-4{
+  text-shadow:0px 0px 5px;
+font-weight: bold!important;
+}
+.text{
+  padding-top: 7%;
+  text-align: center;
+}
+
+/* ---------------------gallary------------------------ */
+
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 400px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 20px;
+  text-align: center;
+  text-shadow:0px 0px 2px;
+font-weight: bold!important;
+}
+
+.container-fluid{
+  padding-left: 10%!important;
+  padding-top: 5% !important;
+
+}
+
+.bgimg2{
+
+  background-image: url('iubat2.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 720px;
+
+}
